@@ -81,9 +81,9 @@
         layer_space {
             bindings = <
  &trans                &trans                 &trans                &trans                 &trans              &trans                       &trans                                                  &trans          &trans          &trans        &trans           &trans  &trans  &trans
- &trans  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)                &trans                 &trans              &trans                       &trans                                                  &trans          &trans          &trans        &trans           &trans  &trans  &trans
+ &trans  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)                &trans                 &trans              &trans                       &trans                                                  &trans          &trans         &kp END      &kp HOME           &trans  &trans  &trans
  &trans      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &macro_arrow_right            &macro_arrow_left  &trans  &trans                  &trans  &trans   &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
- &trans                &trans                 &trans                &trans                 &trans              &trans                                       &trans                  &trans                          &trans          &trans        &trans           &trans  &trans  &trans
+ &trans                &trans                 &trans                &trans                 &trans              &trans                                       &trans                  &trans                          &trans   &kp PAGE_DOWN   &kp PAGE_UP           &trans  &trans  &trans
  &trans                &trans                 &trans                &trans                 &trans                                           &trans  &trans  &trans                  &trans  &trans  &trans                          &trans        &trans           &trans  &trans  &trans
             >;
         };
