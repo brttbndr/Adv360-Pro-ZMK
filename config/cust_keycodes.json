@@ -1,1 +1,36 @@
-[]
+[
+	{
+		"names": [
+			"LG(LEFT_BRACKET)"
+		],
+		"description": "LG(LEFT_BRACKET)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LG(RIGHT_BRACKET)"
+		],
+		"description": "LG(RIGHT_BRACKET)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
